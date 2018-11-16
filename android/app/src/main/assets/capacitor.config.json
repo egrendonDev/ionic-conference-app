@@ -1,0 +1,6 @@
+{
+  "appId": "dev.dt.buyonic",
+  "appName": "buyonic dev",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

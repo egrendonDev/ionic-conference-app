@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">buyonic dev</string>
+    <string name="title_activity_main">buyonic dev</string>
+    <string name="package_name">dev.dt.buyonic</string>
+    <string name="fileprovider_authority">dev.dt.buyonic.fileprovider</string>
+    <string name="custom_url_scheme">dev.dt.buyonic</string>
+</resources>
